@@ -1,0 +1,9 @@
+.item, .sub-item {
+    padding: 1rem;
+    border: dashed 1px green;
+    cursor: pointer;
+}
+
+.error {
+    color: red;
+}
